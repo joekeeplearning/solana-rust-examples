@@ -1,6 +1,6 @@
 # Solana Scripts
 
-This is a library of Rust scripts for specific purposes:
+This is a library of Rust scripts for specific purposes :
 
 - [Generate a new wallet](#new-wallet)
 - [Create an SPL token](#create-an-spl-token)
